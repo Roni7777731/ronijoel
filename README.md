@@ -1,10 +1,6 @@
-dev
-"# ronijoel" 
-"Dev branch work" 
+# ronijoel
 
-feature2
-(your changes from feature2)
-
-(changes already in main)
-main
-main
+Main branch work
+Feature1 branch work
+Feature2 branch work
+Dev branch work
